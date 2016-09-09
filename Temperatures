@@ -10,7 +10,7 @@ public class TemperaturesB {
 		weeklyTemperatures.add(89);
 		weeklyTemperatures.add(94);
 		weeklyTemperatures.add(2 , 111);
-    System.out.println (weeklyTemperatures.get(3));
+    		System.out.println (weeklyTemperatures.get(3));
 
 	}
 }
